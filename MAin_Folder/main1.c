@@ -6,7 +6,9 @@ int main(){
     {
         /* code */
         printf("Hello World\n");
-        
+
+
+        printf("%d\n", i);
     }
     
     return 0;
